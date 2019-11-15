@@ -1,8 +1,7 @@
 <template>
   <div id="app">
-    <van-button plain type="primary">朴素按钮</van-button>
+    <router-view></router-view>
   </div>
 </template>
 
-<style lang="less">
-</style>
+<style lang="less"></style>
